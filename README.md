@@ -6,4 +6,4 @@
 
 ## Learned how to setup my Github Portfolio along with retrieving my SSH code
 
-
+## Project has been successfully uploaded to Github
